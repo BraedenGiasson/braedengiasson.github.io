@@ -26,6 +26,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { socialsData } from '../../data/socialsData';
 import { contactsData } from '../../data/contactsData';
 import './Contacts.css';
+// const sgMail = require('@sendgrid/mail');
 
 function Contacts() {
     const [open, setOpen] = useState(false);
@@ -142,13 +143,26 @@ function Contacts() {
 
                 axios.post(contactsData.sheetAPI, responseData).then((res) => {
                     console.log('success');
+                    console.log(res);
                     setSuccess(true);
                     setErrMsg('');
 
-                    setName('');
-                    setEmail('');
-                    setMessage('');
+                    setName(responseData.name);
+                    setEmail(responseData.email);
+                    setMessage(responseData.message);
                     setOpen(false);
+
+                    //  sgMail.setApiKey('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');
+
+                    // const msg = {
+                    //     to: 'braedengiassonbusiness@gmail.com',
+                    //     from: email,
+                    //     subject: 'Testing',
+                    //     text: message,
+                    //     html: '<strong>and easy to do anywhere, even with Node.js</strong>',
+                    // };
+
+                    // sgMail.send(msg);
                 });
             } else {
                 setErrMsg('Invalid email');

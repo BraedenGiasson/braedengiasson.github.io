@@ -7,6 +7,15 @@ import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
 
+import remtracker from '../assets/png/REMTracker.PNG'
+import angrybirds from '../assets/png/AngryBirds.PNG'
+import superalienbros from '../assets/png/SuperAlienBros.PNG'
+import pokemon from '../assets/png/Pokemon.PNG'
+import match3 from '../assets/png/Match3.PNG'
+import homebudget from '../assets/png/HomeBudget.PNG'
+import invoiceapp from '../assets/png/InvoiceApp.PNG'
+import carpartstracker from '../assets/png/CarPartsTracker.PNG'
+
 export const projectsData = [
     {
         id: 1,
@@ -15,25 +24,25 @@ export const projectsData = [
         tags: ['Java', 'Android Studio'],
         code: 'https://github.com/BraedenGiasson/AppDev2/tree/main/Invoice%20App',
         demo: 'https://github.com/BraedenGiasson/AppDev2/tree/main/Invoice%20App',
-        image: one
+        image: invoiceapp
     },
     {
         id: 2,
         projectName: 'Budgeting Application',
         projectDesc: 'A Desktop home budgeting application for the use of tracking and modifying budgets.',
         tags: ['C#', 'SQLite', 'WPF', 'Agile', 'Scrum', 'CI/CD', 'MVP'],
-        code: 'https://github.com/JosephAmbayec/Car-Part-Inventory-Tracker',
-        demo: 'https://github.com/JosephAmbayec/Car-Part-Inventory-Tracker',
-        image: two
+        code: 'https://github.com/Reaxt/JACAppDev1-2022-Reverent-Jamboree-HomeBudget',
+        demo: 'https://github.com/Reaxt/JACAppDev1-2022-Reverent-Jamboree-HomeBudget',
+        image: homebudget
     },
     {
         id: 3,
-        projectName: 'Angry Birds',
+        projectName: 'Super Alien Bros',
         projectDesc: 'A simple, modified clone of the Angry Birds game, but built almost purely in JavaScript!',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
-        code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
-        demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
-        image: three
+        code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Mario',
+        demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Mario',
+        image: superalienbros
     },
     {
         id: 4,
@@ -42,16 +51,16 @@ export const projectsData = [
         tags: ['JavaScript', 'HTML', 'CSS', 'MySQL', 'Bootstrap', 'Handlebars', 'Express.js'],
         code: 'https://github.com/BraedenGiasson/Car-Part-Inventory-Tracker',
         demo: 'https://github.com/BraedenGiasson/Car-Part-Inventory-Tracker',
-        image: four
+        image: carpartstracker
     },
     {
         id: 5,
-        projectName: 'Super Alien Bros',
+        projectName: 'Angry Birds',
         projectDesc: 'Technically Super Mario Bros, but with a little twist, aliens! Basically the same functionality, but cooler, with invisibility!\nCheck it out!',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
-        code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Mario',
-        demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Mario',
-        image: five
+        code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
+        demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
+        image: angrybirds
     },
     {
         id: 6,
@@ -60,7 +69,7 @@ export const projectsData = [
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
         code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Pokemon',
         demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Pokemon',
-        image: six
+        image: pokemon
     },
     {
         id: 7,
@@ -69,7 +78,7 @@ export const projectsData = [
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
         code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Match%203',
         demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Match%203',
-        image: seven
+        image: match3
     },
     {
         id: 8,
@@ -78,7 +87,7 @@ export const projectsData = [
         tags: ['JavaScript', 'HTML', 'CSS', 'Node.js', 'JSON'],
         code: 'https://github.com/BraedenGiasson/REM-Destination-Tracker',
         demo: 'https://github.com/BraedenGiasson/REM-Destination-Tracker',
-        image: eight
+        image: remtracker
     },
 ]
 
