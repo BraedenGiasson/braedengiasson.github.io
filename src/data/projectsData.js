@@ -38,7 +38,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Super Alien Bros',
-        projectDesc: 'A simple, modified clone of the Angry Birds game, but built almost purely in JavaScript!',
+        projectDesc: 'Technically Super Mario Bros, but with a little twist, aliens! Basically the same functionality, but cooler, with invisibility!\nCheck it out!',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
         code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Mario',
         demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Mario',
@@ -56,7 +56,7 @@ export const projectsData = [
     {
         id: 5,
         projectName: 'Angry Birds',
-        projectDesc: 'Technically Super Mario Bros, but with a little twist, aliens! Basically the same functionality, but cooler, with invisibility!\nCheck it out!',
+        projectDesc: 'A simple, modified clone of the Angry Birds game, but built almost purely in JavaScript!',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
         code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
         demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
