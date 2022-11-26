@@ -1,25 +1,25 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
+    bio : "Over the duration of my College studies, I have achieved numerous achievements that you can check out on the right!",
 
     achievements : [
         {
             id : 1,
             title : 'Scholarship from Walmart',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
+            details : 'Wrote an essay on how Walmart Canada can become more environmentally friendly and sustainable, and was awarded a scholarship for the duration of my College studies.',
             date : '2020-2023',
             field : 'Education'
         },
         {
             id : 2,
             title : 'UpstartEd Winner',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
+            details : 'One of many winners that participated in the 2020 UpstartEd social innovation program. I worked in a team of 4 working on an misinformation detection app.',
             date : 'Feb - March, 2020',
             field : 'Innovation'
         },
         {
             id : 3,
             title : 'Dean\'s List, 3 semesters',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
+            details : 'Achieved a total average score of 80% on all courses during the semester.',
             date : '2020-2022',
             field : 'Education'
         }
