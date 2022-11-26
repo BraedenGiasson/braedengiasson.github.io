@@ -8,7 +8,7 @@ function Main() {
     return (
         <div>
             <Helmet>
-                <title>{headerData.name} - Porfolio</title>
+                <title>{headerData.name}</title>
             </Helmet>
 
             <Navbar />        
@@ -19,9 +19,9 @@ function Main() {
             <Experience />
             <Projects />
             <Achievement />
-            <Services />
-            <Testimonials />
-            <Blog />
+            {/* <Services /> */}
+            {/* <Testimonials /> */}
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>
