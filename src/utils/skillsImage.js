@@ -59,6 +59,17 @@ import tensorflow from '../assets/svg/skills/tensorflow.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
 
+import office365 from '../assets/svg/skills/office365.svg'
+import handlebars from '../assets/svg/skills/handlebars.svg'
+import jest from '../assets/svg/skills/jest.svg'
+import express from '../assets/svg/skills/expressjs.svg'
+import jquery from '../assets/svg/skills/jquery.svg'
+import jira from '../assets/svg/skills/jira.svg'
+import agile from '../assets/svg/skills/agile.svg'
+import androidstudio from '../assets/svg/skills/android.svg'
+import aspdotnet from '../assets/svg/skills/aspdotnet.svg'
+import sqlite from '../assets/svg/skills/sqlite.svg'
+import nodejs from '../assets/svg/skills/nodejs.svg'
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
 import fastify from '../assets/svg/skills/fastify.svg'
@@ -227,6 +238,30 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'node.js':
+            return nodejs;
+        case 'sqlite':
+            return sqlite;
+        case 'asp.net':
+            return aspdotnet;
+        case 'wpf':
+            return aspdotnet;
+        case 'android studio':
+            return androidstudio;
+        case 'agile':
+            return agile;
+        case 'jira':
+            return jira;
+        case 'jquery':
+            return jquery;
+        case 'express.js':
+            return express;
+        case 'jest':
+            return jest;
+        case 'handlebars':
+            return handlebars;
+        case 'office 365':
+            return office365;
         default:
             break;
     }

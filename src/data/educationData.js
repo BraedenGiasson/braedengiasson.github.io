@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'John Abbott College',
+        course: 'Computer Science - DEC',
+        startYear: '2020',
+        endYear: '2023'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
+        institution: 'MacDonald High School',
+        course: 'High School Diploma',
         startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
-    },
+        endYear: '2020'
+    }
 ]
