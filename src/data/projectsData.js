@@ -7,24 +7,23 @@ import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
 
-
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
+        projectName: 'Invoicing App',
         projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
         tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/BraedenGiasson/AppDev2',
+        demo: 'https://github.com/BraedenGiasson/AppDev2',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
+        projectName: 'Car Parts Tracker',
         projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
         tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/JosephAmbayec/Car-Part-Inventory-Tracker',
+        demo: 'https://github.com/JosephAmbayec/Car-Part-Inventory-Tracker',
         image: two
     },
     {
