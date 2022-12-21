@@ -15,6 +15,7 @@ import {
     FaYoutube,
     FaBlogger,
     FaInstagram,
+    FaLink
 } from 'react-icons/fa';
 
 function Landing() {
@@ -99,6 +100,19 @@ function Landing() {
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
                                     aria-label='LinkedIn'
+                                />
+                            </a>
+                        )}
+                        {socialsData.linktree && (
+                            <a
+                                href={socialsData.linktree}
+                                target='_blank'
+                                rel='noreferrer'
+                            >
+                                <FaLink
+                                    className='landing--social'
+                                    style={{ color: theme.secondary }}
+                                    aria-label='Linktree'
                                 />
                             </a>
                         )}

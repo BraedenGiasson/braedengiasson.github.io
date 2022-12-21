@@ -15,10 +15,21 @@ import match3 from '../assets/png/Match3.PNG'
 import homebudget from '../assets/png/HomeBudget.PNG'
 import invoiceapp from '../assets/png/InvoiceApp.PNG'
 import carpartstracker from '../assets/png/CarPartsTracker.PNG'
+import braedenscountryguesser from '../assets/png/BraedenCountryGuesser.PNG'
+
 
 export const projectsData = [
     {
         id: 1,
+        projectName: 'Braeden\'s Country Guesser',
+        projectDesc: 'Coming soon! A country guesser game, but Braeden\'s!',
+        tags: ['JavaScript', 'HTML', 'CSS', 'Photoshop', 'JSON'],
+        code: 'https://github.com/BraedenGiasson/BraedensCountryGuesser',
+        demo: 'https://github.com/BraedenGiasson/BraedensCountryGuesser',
+        image: braedenscountryguesser
+    },
+    {
+        id: 2,
         projectName: 'Invoicing App',
         projectDesc: 'An invoicing app for a customer to conveniently track and modify invoices.',
         tags: ['Java', 'Android Studio'],
@@ -27,7 +38,7 @@ export const projectsData = [
         image: invoiceapp
     },
     {
-        id: 2,
+        id: 3,
         projectName: 'Budgeting Application',
         projectDesc: 'A Desktop home budgeting application for the use of tracking and modifying budgets.',
         tags: ['C#', 'SQLite', 'WPF', 'Agile', 'Scrum', 'CI/CD', 'MVP'],
@@ -36,7 +47,7 @@ export const projectsData = [
         image: homebudget
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Super Alien Bros',
         projectDesc: 'Technically Super Mario Bros, but with a little twist, aliens! Basically the same functionality, but cooler, with invisibility!\nCheck it out!',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
@@ -45,7 +56,7 @@ export const projectsData = [
         image: superalienbros
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Car Parts Tracker',
         projectDesc: 'A car part tracker to track car parts. A user can create projects containing multiple car parts for their own personal projects.',
         tags: ['JavaScript', 'HTML', 'CSS', 'MySQL', 'Bootstrap', 'Handlebars', 'Express.js'],
@@ -54,25 +65,25 @@ export const projectsData = [
         image: carpartstracker
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'Angry Birds',
-        projectDesc: 'A simple, modified clone of the Angry Birds game, but built almost purely in JavaScript!',
+        projectDesc: 'A simple assignment, a modified clone of the Angry Birds game, but built almost purely in JavaScript!',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
         code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
         demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Angry%20Birds',
         image: angrybirds
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'Pokemon',
-        projectDesc: 'A small part of the original Pokemon game, focused more on the fighting between the different Pokemon.',
+        projectDesc: 'An assignment based on a small part of the original Pokemon game, focused more on the fighting between the different Pokemon.',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
         code: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Pokemon',
         demo: 'https://github.com/BraedenGiasson/Game-Programming/tree/main/Pokemon',
         image: pokemon
     },
     {
-        id: 7,
+        id: 8,
         projectName: 'Match 3',
         projectDesc: 'Similar to Candy Crush. The goal is to match any three tiles of the same pattern by swapping two adjacent tiles. You gain points for every match of 3 to hopefully progress to the next level.',
         tags: ['JavaScript', 'HTML', 'CSS', 'JSON'],
@@ -81,7 +92,7 @@ export const projectsData = [
         image: match3
     },
     {
-        id: 8,
+        id: 9,
         projectName: 'REM Destination Tracker',
         projectDesc: 'A simple maps destination tracker where you can enter a start and end station, as well as a start date and time. It will then show you a path to the destination, including all the stops along the way, as well as the time to destination.',
         tags: ['JavaScript', 'HTML', 'CSS', 'Node.js', 'JSON'],

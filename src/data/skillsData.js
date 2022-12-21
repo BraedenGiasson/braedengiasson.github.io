@@ -2,6 +2,7 @@
     'Javascript',
     'C#',
     'Java',
+    'React',
     'HTML',
     'CSS',
     'Android Studio',

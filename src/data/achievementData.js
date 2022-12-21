@@ -1,5 +1,5 @@
 export const achievementData = {
-    bio : "Over the duration of my College studies, I have achieved numerous achievements that you can check out on the right!",
+    bio : "Over the duration of my College studies, I have achieved numerous achievements, check them out on the right!",
 
     achievements : [
         {
@@ -13,13 +13,13 @@ export const achievementData = {
             id : 2,
             title : 'UpstartEd Winner',
             details : 'One of many winners that participated in the 2020 UpstartEd social innovation program. I worked in a team of 4 working on an misinformation detection app.',
-            date : 'Feb - March, 2020',
+            date : 'Feb. 2020-Mar. 2020',
             field : 'Innovation'
         },
         {
             id : 3,
-            title : 'Dean\'s List, 3 semesters',
-            details : 'Achieved a total average score of 80% on all courses during the semester.',
+            title : 'Dean\'s List, 4 semesters',
+            details : 'Achieved a minimum total average score of 80% on all courses during the semester.',
             date : '2020-2022',
             field : 'Education'
         }
