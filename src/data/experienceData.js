@@ -3,8 +3,8 @@ export const experienceData = [
         id: 1,
         company: 'HPV Global Action / VPH Action Globale',
         jobtitle: 'Computer Science Intern',
-        startYear: 'Jan. 2022',
-        endYear: 'May 2022'
+        startYear: 'Jan. 2023',
+        endYear: 'May 2023'
     },
     {
         id: 2,
