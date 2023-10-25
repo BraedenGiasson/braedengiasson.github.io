@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+1 (514)-979-0095',
     address: 'Montréal, QC, Canada',
 
-    sheetAPI: ''
+    sheetAPI: 'https://sheetdb.io/api/v1/02bwlxyewtxhq'
 }

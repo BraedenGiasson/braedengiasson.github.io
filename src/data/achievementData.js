@@ -20,8 +20,15 @@ export const achievementData = {
             id : 3,
             title : 'Dean\'s List, 4 semesters',
             details : 'Achieved a minimum total average score of 80% on all courses during the semester.',
-            date : '2020-2022',
+            date : '2020-2023',
             field : 'Education'
+        },
+        {
+            id : 4,
+            title : 'Hockey Captain',
+            details : 'Hockey Captain for the Île Perrot Riverains for 2 years.',
+            date : '2018 & 2020',
+            field : 'Sports'
         }
 
     ]
