@@ -21,27 +21,27 @@
 
 ## :maple_leaf: About me
 
-​	:computer: Software Developer from Montréal, Canada.
+​	:computer: **Software Developer** from Montréal, Canada.
 
-​	:briefcase: Looking for employment in the Software Development field.
+​	:briefcase: Looking for **employment** in the Software Development field.
 
-​	:mortar_board: Computer Science Grad from [John Abbott College.](https://johnabbott.qc.ca/career-programs/computer-science-technology/)
+​	:mortar_board: **Computer Science Grad** from [John Abbott College.](https://johnabbott.qc.ca/career-programs/computer-science-technology/)
 
-​	:open_file_folder: Passionate about coding.
+​	:open_file_folder: Passionate about **coding**.
 
-​	:world_map: Passionate about travelling.
+​	:world_map: Passionate about **travelling**.
 
 ## :pushpin: Where to find me
 
-​	:telephone_receiver: Phone number: [(514) 979-0095](tel:+1-514-979-0095)
+​	:telephone_receiver: **Phone number:** [(514) 979-0095](tel:+1-514-979-0095)
 
-​	:e-mail: Email: [braedengiasson@gmail.com](mailto:braedengiasson@gmail.com)
+​	:e-mail: **Email:** [braedengiasson@gmail.com](mailto:braedengiasson@gmail.com)
 
-​	:globe_with_meridians: Personal website & portfolio: https://braedengiasson.github.io/
+​	:globe_with_meridians: **Personal website & portfolio:** https://braedengiasson.github.io/
 
-​	:link: LinkedIn: https://www.linkedin.com/in/braedengiasson/
+​	:link: **LinkedIn:** https://www.linkedin.com/in/braedengiasson/
 
-​	:link: GitHub: https://github.com/BraedenGiasson
+​	:link: **GitHub:** https://github.com/BraedenGiasson
 
 ## :airplane: Know me better
 
@@ -185,13 +185,13 @@ Luxembourg City, Luxembourg :luxembourg:
   
  ## :thought_balloon: Interests
 
-​	:computer: Coding
+​	**:computer: Coding**
 
-​	:airplane: Travel
+​	**:airplane: Travel**
 
-​	:sound: Languages
+​	**:sound: Languages**
 
-​	:scroll: History
+​	**:scroll: History**
 
 ## :trophy: Awards
 
@@ -213,6 +213,6 @@ Luxembourg City, Luxembourg :luxembourg:
 
 ## :sound: Languages
 
-- English
-- French
-- German
+- **English** (professional working proficiency)
+- **French** (native or bilingual proficiency)
+- **German** (elementary proficiency)
