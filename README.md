@@ -6,18 +6,18 @@
 
 - :maple_leaf: [About me](https://github.com/BraedenGiasson/braedengiasson.github.io#maple_leaf-about-me)
 - :mailbox_with_mail: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)
-- :airplane: Know me better
-- :dart: Project's I've worked on
-- :pencil2: Programming languages
-- :books: Frameworks / Libraries
-- :iphone: Software
-- :heavy_plus_sign: Even more
-- :watch: Experience
-- :european_castle: Travel break
-- :mortar_board: Education
-- :thought_balloon: Interests
-- :trophy: Awards
-- :sound: Languages
+- :airplane: [Know me better](https://github.com/BraedenGiasson/braedengiasson.github.io#airplane-know-me-better)
+- :dart: [Project's I've worked on](https://github.com/BraedenGiasson/braedengiasson.github.io#dart-projects-ive-worked-on)
+- :pencil2: [Programming languages](https://github.com/BraedenGiasson/braedengiasson.github.io#pencil2-programming-languages)
+- :books: [Frameworks / Libraries](https://github.com/BraedenGiasson/braedengiasson.github.io#books-frameworks--libraries)
+- :iphone: [Software](https://github.com/BraedenGiasson/braedengiasson.github.io#iphone-software)
+- :heavy_plus_sign: [Even more](https://github.com/BraedenGiasson/braedengiasson.github.io#heavy_plus_sign-even-more)
+- :watch: [Experience](https://github.com/BraedenGiasson/braedengiasson.github.io#-experience)
+- :european_castle: [Travel break](https://github.com/BraedenGiasson/braedengiasson.github.io#european_castle-travel-break)
+- :mortar_board: [Education](https://github.com/BraedenGiasson/braedengiasson.github.io#mortar_board-education)
+- :thought_balloon: [Interests](https://github.com/BraedenGiasson/braedengiasson.github.io#thought_balloon-interests)
+- :trophy: [Awards](https://github.com/BraedenGiasson/braedengiasson.github.io#trophy-awards)
+- :sound: [Languages](https://github.com/BraedenGiasson/braedengiasson.github.io#sound-languages)
 
 ## :maple_leaf: About me
 
@@ -89,9 +89,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
  <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" width="50px" height="50px">
         &nbsp;
-        <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/aspdotnet.svg" alt="ASP.NET" title="ASP.NET" width="50px" height="50px">
-        &nbsp;
-        <img src="https://braedengiasson.github.io/static/media/aspdotnet.6757f9bb7e4fc52725e7e22c51bed771.svg" alt="WPF" title="WPF" width="50px" height="50px">
+        <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/aspdotnet.svg" alt="ASP.NET & WPF" title="ASP.NET & WPF" width="50px" height="50px">
         &nbsp;
         <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="50px" height="50px">
         &nbsp;
