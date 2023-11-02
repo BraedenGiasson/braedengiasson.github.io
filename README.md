@@ -5,7 +5,7 @@
 ## :bookmark_tabs: Table of contents
 
 - :maple_leaf: [About me](https://github.com/BraedenGiasson/braedengiasson.github.io#maple_leaf-about-me)
-- :mailbox_with_mail: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)
+- :pushpin: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)
 - :airplane: [Know me better](https://github.com/BraedenGiasson/braedengiasson.github.io#airplane-know-me-better)
 - :dart: [Project's I've worked on](https://github.com/BraedenGiasson/braedengiasson.github.io#dart-projects-ive-worked-on)
 - :pencil2: [Programming languages](https://github.com/BraedenGiasson/braedengiasson.github.io#pencil2-programming-languages)
@@ -31,7 +31,7 @@
 
 ​	:world_map: Passionate about travelling.
 
-## :mailbox_with_mail: Where to find me
+## :pushpin: Where to find me
 
 ​	:telephone_receiver: Phone number: [+1 (514)-979-0095](tel:514-979-0095)	
 
@@ -102,6 +102,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50px" height="50px">
         &nbsp;
     </div>
+
 
 ## :iphone: Software
 
