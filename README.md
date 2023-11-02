@@ -4,13 +4,13 @@
 
 ## :bookmark_tabs: Table of contents
 
-- :maple_leaf: [About me](#About me)
+- :maple_leaf: [About me](#Aboutme)
 - :mailbox_with_mail: Where to find me
 - :airplane: Know me better
 - :dart: Project's I've worked on
 - :pencil2: Programming languages
 - :books: Frameworks / Libraries
-- :iphone: Software
+- :iphone: [Software](#software)
 - :heavy_plus_sign: Even more
 - :watch: Experience
 - :european_castle: Travel break
