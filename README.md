@@ -4,13 +4,13 @@
 
 ## :bookmark_tabs: Table of contents
 
-- :maple_leaf: [About me](#Aboutme)
+- :maple_leaf: About me
 - :mailbox_with_mail: Where to find me
 - :airplane: Know me better
 - :dart: Project's I've worked on
 - :pencil2: Programming languages
 - :books: Frameworks / Libraries
-- :iphone: [Software](#software)
+- :iphone: Software
 - :heavy_plus_sign: Even more
 - :watch: Experience
 - :european_castle: Travel break
@@ -18,6 +18,8 @@
 - :thought_balloon: Interests
 - :trophy: Awards
 - :sound: Languages
+
+[TOC]
 
 ## :maple_leaf: About me
 
@@ -57,7 +59,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
 
 ​	:page_facing_up: **[Invoicing App](https://github.com/BraedenGiasson/AppDev2/tree/main/Invoice%20App)**
 
-*Want to know more about projects I've worked on? Check them out [here](https://braedengiasson.github.io/#projects).*
+> *Want to know more about projects I've worked on? Check them out [here](https://braedengiasson.github.io/#projects).*
 
 ## :pencil2: Programming languages
 
