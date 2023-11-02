@@ -4,8 +4,8 @@
 
 ## :bookmark_tabs: Table of contents
 
-- :maple_leaf: About me
-- :mailbox_with_mail: Where to find me
+- :maple_leaf: [About me](https://github.com/BraedenGiasson/braedengiasson.github.io#maple_leaf-about-me)
+- :mailbox_with_mail: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)
 - :airplane: Know me better
 - :dart: Project's I've worked on
 - :pencil2: Programming languages
@@ -18,8 +18,6 @@
 - :thought_balloon: Interests
 - :trophy: Awards
 - :sound: Languages
-
-[TOC]
 
 ## :maple_leaf: About me
 
