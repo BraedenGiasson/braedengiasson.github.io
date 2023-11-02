@@ -1,6 +1,6 @@
 # Hey, I'm Braeden :wave:
 
-<img src="C:\Users\Braeden\Downloads\braedengiasson.github.io\src\assets\jpeg\profilePic.JPEG" alt="profilePic" style="zoom:15%;" />
+<img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/jpeg/profilePic.JPEG" alt="my profile pic" width="300" height="300" />
 
 ## :maple_leaf: About me
 
