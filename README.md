@@ -33,7 +33,7 @@
 
 ## :pushpin: Where to find me
 
-​	:telephone_receiver: Phone number: [+1 (514)-979-0095](tel:514-979-0095)	
+​	:telephone_receiver: Phone number: [(514) 979-0095](tel:(514)-979-0095)
 
 ​	:e-mail: Email: [braedengiasson@gmail.com](mailto:braedengiasson@gmail.com)
 
@@ -57,7 +57,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
 
 ​	:page_facing_up: **[Invoicing App](https://github.com/BraedenGiasson/AppDev2/tree/main/Invoice%20App)**
 
-> *Want to know more about projects I've worked on? Check them out [here](https://braedengiasson.github.io/#projects).*
+> *Want to see more projects I've worked on? Check them out on my [portfolio ](https://braedengiasson.github.io/#projects).*
 
 ## :pencil2: Programming languages
 
