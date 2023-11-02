@@ -33,7 +33,7 @@
 
 ## :pushpin: Where to find me
 
-​	:telephone_receiver: Phone number: [(514) 979-0095](tel:(514)-979-0095)
+​	:telephone_receiver: Phone number: [(514) 979-0095](tel:+1-(514)-979-0095)
 
 ​	:e-mail: Email: [braedengiasson@gmail.com](mailto:braedengiasson@gmail.com)
 
