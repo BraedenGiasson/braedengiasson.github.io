@@ -2,6 +2,23 @@
 
 <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/jpeg/profilePic.JPEG" alt="my profile pic" width="300" height="300" />
 
+## :bookmark_tabs: Table of contents
+
+- :maple_leaf: [About me](#About me)
+- :mailbox_with_mail: Where to find me
+- :airplane: Know me better
+- :dart: Project's I've worked on
+- :pencil2: Programming languages
+- :books: Frameworks / Libraries
+- :iphone: Software
+- :heavy_plus_sign: Even more
+- :watch: Experience
+- :european_castle: Travel break
+- :mortar_board: Education
+- :thought_balloon: Interests
+- :trophy: Awards
+- :sound: Languages
+
 ## :maple_leaf: About me
 
 ​	:computer: Software Developer from Montréal, Canada.
@@ -42,7 +59,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
 
 *Want to know more about projects I've worked on? Check them out [here](https://braedengiasson.github.io/#projects).*
 
-## :pencil2: Languages
+## :pencil2: Programming languages
 
 <div>
         <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/javascript.svg" alt="JavaScript" title="JavaScript" width="50px" height="50px">
@@ -87,6 +104,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="50px" height="50px">
         &nbsp;
     </div>
+
 ## :iphone: Software
 
 <div>
@@ -108,7 +126,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
         &nbsp;
     </div>
 
-## :heavy_plus_sign: Even More
+## :heavy_plus_sign: Even more
 
 <div>
         <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/agile.svg" alt="Agile" title="Agile" width="50px" height="50px">
@@ -129,7 +147,7 @@ I recently graduated from Computer Science Technology at John Abbott College thi
 
   2019 - Present
 
-## :european_castle: Travel Break
+## :european_castle: Travel break
 
 The European continent has been a dream place to visit, as there's so many different countries, activities, and cultures to experience. I knew for over 3 years, that I would backpack Europe in the summer/fall of 2023. 
 
@@ -158,7 +176,7 @@ Grindelwald, Switzerland :switzerland:
 Interlaken, Switzerland :switzerland:
 Luxembourg City, Luxembourg :luxembourg:
 
-## :school: Education
+## :mortar_board: Education
 
 - **Computer Science Technology**
 
