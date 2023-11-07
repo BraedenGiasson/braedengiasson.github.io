@@ -4,20 +4,20 @@
 
 ## :bookmark_tabs: Table of contents
 
-- :maple_leaf: [About me](https://github.com/BraedenGiasson/braedengiasson.github.io#maple_leaf-about-me)
-- :pushpin: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)
-- :airplane: [Know me better](https://github.com/BraedenGiasson/braedengiasson.github.io#airplane-know-me-better)
-- :dart: [Project's I've worked on](https://github.com/BraedenGiasson/braedengiasson.github.io#dart-projects-ive-worked-on)
-- :pencil2: [Programming languages](https://github.com/BraedenGiasson/braedengiasson.github.io#pencil2-programming-languages)
-- :books: [Frameworks / Libraries](https://github.com/BraedenGiasson/braedengiasson.github.io#books-frameworks--libraries)
-- :iphone: [Software](https://github.com/BraedenGiasson/braedengiasson.github.io#iphone-software)
-- :heavy_plus_sign: [Even more](https://github.com/BraedenGiasson/braedengiasson.github.io#heavy_plus_sign-even-more)
-- :watch: [Experience](https://github.com/BraedenGiasson/braedengiasson.github.io#-experience)
-- :european_castle: [Travel break](https://github.com/BraedenGiasson/braedengiasson.github.io#european_castle-travel-break)
-- :mortar_board: [Education](https://github.com/BraedenGiasson/braedengiasson.github.io#mortar_board-education)
-- :thought_balloon: [Interests](https://github.com/BraedenGiasson/braedengiasson.github.io#thought_balloon-interests)
-- :trophy: [Awards](https://github.com/BraedenGiasson/braedengiasson.github.io#trophy-awards)
-- :sound: [Languages](https://github.com/BraedenGiasson/braedengiasson.github.io#sound-languages)
+- **:maple_leaf: [About me](https://github.com/BraedenGiasson/braedengiasson.github.io#maple_leaf-about-me)**
+- **:pushpin: [Where to find me](https://github.com/BraedenGiasson/braedengiasson.github.io#mailbox_with_mail-where-to-find-me)**
+- **:airplane: [Know me better](https://github.com/BraedenGiasson/braedengiasson.github.io#airplane-know-me-better)**
+- **:dart: [Project's I've worked on](https://github.com/BraedenGiasson/braedengiasson.github.io#dart-projects-ive-worked-on)**
+- **:pencil2: [Programming languages](https://github.com/BraedenGiasson/braedengiasson.github.io#pencil2-programming-languages)**
+- **:books: [Frameworks / Libraries](https://github.com/BraedenGiasson/braedengiasson.github.io#books-frameworks--libraries)**
+- **:iphone: [Software](https://github.com/BraedenGiasson/braedengiasson.github.io#iphone-software)**
+- **:heavy_plus_sign: [Even more](https://github.com/BraedenGiasson/braedengiasson.github.io#heavy_plus_sign-even-more)**
+- **:watch: [Experience](https://github.com/BraedenGiasson/braedengiasson.github.io#-experience)**
+- **:european_castle: [Travel break](https://github.com/BraedenGiasson/braedengiasson.github.io#european_castle-travel-break)**
+- **:mortar_board: [Education](https://github.com/BraedenGiasson/braedengiasson.github.io#mortar_board-education)**
+- **:thought_balloon: [Interests](https://github.com/BraedenGiasson/braedengiasson.github.io#thought_balloon-interests)**
+- **:trophy: [Awards](https://github.com/BraedenGiasson/braedengiasson.github.io#trophy-awards)**
+- **:sound: [Languages](https://github.com/BraedenGiasson/braedengiasson.github.io#sound-languages)**
 
 ## :maple_leaf: About me
 
@@ -110,6 +110,8 @@ I recently graduated from Computer Science Technology at John Abbott College thi
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50px" height="50px">
         &nbsp;
         <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/git.svg" alt="Git" title="Git" width="50px" height="50px">
+        &nbsp;
+    <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/android.svg" alt="Android Studio" title="Android Studio" width="50px" height="50px">
         &nbsp;
         <img src="https://github.com/BraedenGiasson/braedengiasson.github.io/blob/main/src/assets/svg/skills/office365.svg" alt="Office365" title="Office365" width="50px" height="50px">
         &nbsp;
