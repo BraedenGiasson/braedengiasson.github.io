@@ -148,9 +148,13 @@ function Contacts() {
                     setSuccess(true);
                     setErrMsg('');
 
-                    setName(responseData.name);
-                    setEmail(responseData.email);
-                    setMessage(responseData.message);
+                    // setName(responseData.name);
+                    // setEmail(responseData.email);
+                    // setMessage(responseData.message);
+                    
+                    setName('');
+                    setEmail('');
+                    setMessage('');
                     setOpen(false);
 
                     //  sgMail.setApiKey('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');
