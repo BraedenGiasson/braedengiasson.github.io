@@ -78,6 +78,22 @@ function Navbar() {
                 fontSize: '2rem',
             },
         },
+        navMenuHovered: {
+            fontSize: '2.5rem',
+            color: theme.tertiary,
+            cursor: 'pointer',
+            transform: 'translateY(-10px)',
+            transition: 'color 0.3s',
+            '&:hover': {
+                color: theme.secondary,
+            },
+            [t.breakpoints.down('sm')]: {
+                fontSize: '2.5rem',
+            },
+            [t.breakpoints.down('xs')]: {
+                fontSize: '2rem',
+            },
+        },
         MuiDrawer: {
             padding: '0em 1.8em',
             width: '14em',
@@ -172,7 +188,7 @@ function Navbar() {
                 </h1>
 
                 <IoMenuSharp
-                    className={classes.navMenu}
+                    className={navbarBackgroundColor ? classes.navMenuHovered : classes.navMenu}
                     onClick={handleDrawerOpen}
                     aria-label='Menu'
                 />
