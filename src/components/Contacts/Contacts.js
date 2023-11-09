@@ -136,10 +136,14 @@ function Contacts() {
 
         if (name && email && message) {
             if (isEmail(email)) {
+                const currentDate = new Date();
+                const formatDate = `${currentDate.toLocaleDateString("en-US")} ${currentDate.getHours()}:${currentDate.getMinutes()}`;
+
                 const responseData = {
                     name: name,
                     email: email,
                     message: message,
+                    date: formatDate
                 };
 
                 axios.post(contactsData.sheetAPI, responseData).then((res) => {
