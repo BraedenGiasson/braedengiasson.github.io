@@ -150,6 +150,10 @@ function Contacts() {
                     console.log('success');
                     console.log(res);
                     setSuccess(true);
+
+                    // Clear the 'sent' text
+                    setTimeout(() => setSuccess(false), 4000);
+
                     setErrMsg('');
 
                     // setName(responseData.name);
@@ -159,7 +163,9 @@ function Contacts() {
                     setName('');
                     setEmail('');
                     setMessage('');
-                    setOpen(false);
+
+                    setErrMsg('Your message was sent');
+                    setOpen(true);
 
                     //  sgMail.setApiKey('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');
 
