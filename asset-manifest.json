@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6626e662.css",
-    "main.js": "/static/js/main.deb1acfa.js",
+    "main.css": "/static/css/main.2d6b068c.css",
+    "main.js": "/static/js/main.ea650cdc.js",
     "static/js/787.d659af6b.chunk.js": "/static/js/787.d659af6b.chunk.js",
     "static/media/four.svg": "/static/media/four.bd70304d5c1d04da32e60413fdfadfea.svg",
     "static/media/profilePic.JPEG": "/static/media/profilePic.c535504bf51151eefe68.JPEG",
@@ -83,7 +83,6 @@
     "static/media/mysql.svg": "/static/media/mysql.61d16d6438ce80c593a10153f5654b10.svg",
     "static/media/gcp.svg": "/static/media/gcp.89993b8e5993a11627d34b118772d7f7.svg",
     "static/media/docker.svg": "/static/media/docker.26ada6e465df47e1423793e7e41f43ba.svg",
-    "static/media/CreativeWordleClone.PNG": "/static/media/CreativeWordleClone.e4b4c49363ffcd2ac1b3.PNG",
     "static/media/firebase.svg": "/static/media/firebase.1aa395c85c103e349e0af5b92f670243.svg",
     "static/media/blender.svg": "/static/media/blender.5c8d639d034e6fb587a2a0c70e07e0bc.svg",
     "static/media/unity.svg": "/static/media/unity.5103c8d138eb43fa33c647a69f8e618e.svg",
@@ -165,12 +164,12 @@
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "static/media/bulma.svg": "/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "static/media/office365.svg": "/static/media/office365.c9dbbe217921ad444ebf4be547273f01.svg",
-    "main.6626e662.css.map": "/static/css/main.6626e662.css.map",
-    "main.deb1acfa.js.map": "/static/js/main.deb1acfa.js.map",
+    "main.2d6b068c.css.map": "/static/css/main.2d6b068c.css.map",
+    "main.ea650cdc.js.map": "/static/js/main.ea650cdc.js.map",
     "787.d659af6b.chunk.js.map": "/static/js/787.d659af6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6626e662.css",
-    "static/js/main.deb1acfa.js"
+    "static/css/main.2d6b068c.css",
+    "static/js/main.ea650cdc.js"
   ]
 }
