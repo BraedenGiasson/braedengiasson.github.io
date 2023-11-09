@@ -16,7 +16,7 @@ import homebudget from '../assets/png/HomeBudget.PNG'
 import invoiceapp from '../assets/png/InvoiceApp.PNG'
 import carpartstracker from '../assets/png/CarPartsTracker.PNG'
 import braedenscountryguesser from '../assets/png/BraedenCountryGuesser.PNG'
-import creativewordleclone from '../assets/png/CreativeWordleClone.PNG'
+import creativewordleclone from '../assets/png/CreativeWordleClone.png'
 
 
 export const projectsData = [

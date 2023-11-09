@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext, useState, useEffect } from 'react';
 import { NavHashLink as NavLink } from 'react-router-hash-link';
 import Fade from 'react-reveal/Fade';
 import { IoMenuSharp, IoHomeSharp } from 'react-icons/io5';
@@ -17,7 +17,39 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 function Navbar() {
     const { theme, setHandleDrawer } = useContext(ThemeContext);
 
+    const [navbarBackgroundColor, setNavbarBackgroundColor] = useState(false);
+    const [show, setShow] = useState(false)
+
+    useEffect(() => {
+        let previousScrollPosition = 0;
+        let currentScrollPosition = 0;
+
+        const changeNavBackgroundColor = (e) => {
+            // Change navbar background color when scrolled past landing page
+            window.scrollY > (window.innerHeight - 208) ? setNavbarBackgroundColor(true) : setNavbarBackgroundColor(false)
+
+            // Get the new Value
+            currentScrollPosition = window.pageYOffset;
+
+            //Subtract the two and conclude
+            if (previousScrollPosition - currentScrollPosition < 0) {
+                setShow(true);
+            } else if (previousScrollPosition - currentScrollPosition > 0) {
+                setShow(false);
+            }
+
+            // Update the previous value
+            previousScrollPosition = currentScrollPosition;
+        };
+
+        window.addEventListener('scroll', changeNavBackgroundColor);
+
+        return () =>
+            window.removeEventListener('scroll', changeNavBackgroundColor);
+    }, []);
+
     const [open, setOpen] = useState(false);
+
 
     const handleDrawerOpen = () => {
         setOpen(true);
@@ -117,7 +149,7 @@ function Navbar() {
             [t.breakpoints.down('sm')]: {
                 fontSize: '1.385rem',
             },
-        },
+        }
     }));
 
     const classes = useStyles();
@@ -131,9 +163,11 @@ function Navbar() {
     };
 
     return (
-        <div className='navbar'>
+        // <div className={navbarBackgroundColor ? 'navbar-bg' : 'navbar'}>
+        <div className={`${navbarBackgroundColor ? 'navbar-bg' : 'navbar'} ${show && 'hidden'}`}>
             <div className='navbar--container'>
-                <h1 style={{ color: theme.secondary }}>
+                {/* <h1 style={{ color: theme.secondary }}> */}
+                <h1 style={{ color: theme.tertiary }}>
                     {headerData.name}
                 </h1>
 
