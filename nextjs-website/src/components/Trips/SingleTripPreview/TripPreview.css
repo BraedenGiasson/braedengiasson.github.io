@@ -1,0 +1,11 @@
+.trip-preview {
+    @apply font-poppins;
+}
+
+.clickable:hover  .bgImg {
+    @apply scale-[1.2] transition-transform duration-[600ms] ;
+}
+
+/* .flag:hover {
+    @apply mb-[5px] ease-in-out duration-[400ms];
+} */

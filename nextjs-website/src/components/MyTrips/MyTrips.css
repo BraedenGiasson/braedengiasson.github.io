@@ -1,0 +1,143 @@
+.trips {
+    min-height: 100vh;
+    position: relative;
+}
+
+.trips-body {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 8rem;
+    /* height: fit-content; */
+    @apply ml-[7%] ;
+}
+
+.trips-description {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex: 0.5;
+    width: 100%;
+    height: fit-content;
+    /* @apply p-[2rem]; */
+}
+
+.trips-description >h2 {
+    margin-bottom: 40px;
+}
+
+.trips-description > p {
+    font-size: 1.25rem;
+    color: #e0d9d9;
+    @apply font-poppins text-left;
+}
+
+.trips-img {
+    /* margin-top: 40px; */
+    /* pointer-events: none; */
+    @apply flex-[0.4] md:max-w-[650px] lg:max-w-[100%] object-cover inline-block;
+}
+
+.trips-img,
+    .trips-section-img-text-arrow {
+        @apply text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem];
+    }
+
+.trips-data-img-link:hover .trips-all-image {
+   transform: scale(1.2);
+}
+
+.trips-all-image {
+    @apply w-[100%] h-[100%] transition-transform duration-[600ms];
+}
+
+/* .trips-img > img {
+    width: 380px;
+    flex: 0.5;
+} */
+
+.trips-img:hover .text-container {
+  @apply transition-transform duration-[300ms] translate-x-1 ease-in-out;
+}
+
+@media (min-width: 992px) and (max-width: 1380px) {
+
+    .trips-description > h2 {
+      font-size: 3.3rem;
+      margin-bottom: 30px;
+    }
+    .trips-description > p {
+      font-size: 1.15rem;
+    }
+
+    .trips-img>img {
+        width: 300px;
+    } 
+}
+
+@media screen and (max-width: 992px){
+
+    .trips-body {
+        padding-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .trips-description{
+        flex: 0.6;
+        box-sizing: border-box;
+        /* padding: 5% 10%; */
+        padding: 20px;
+
+    }
+
+    .trips-description > h2 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+    }
+
+    .trips-description > p {
+        font-size: 1.1rem;
+    }
+
+
+    .trips-img {
+        @apply rounded-[20px] overflow-hidden cursor-pointer p-[20px] ;
+    }
+
+    .trips-data-img-link {
+        @apply rounded-[20px] overflow-hidden; 
+    }
+
+    .trips-img > img {
+        /* width: 250px; */
+        flex: 0.4;
+    }
+
+}
+
+@media screen and (max-width: 800px){
+  .trips-description > h2{
+    align-self: center;
+  }
+
+}
+
+@media screen and (max-width: 600px){
+
+  .trips-description > h2 {
+    font-size: 2.5rem;
+  }
+
+    .trips-description > p{
+      font-size: 0.95rem;
+    }
+
+    .trips-img > img {
+        width: 200px;
+    }
+}

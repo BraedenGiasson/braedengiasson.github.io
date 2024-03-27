@@ -1,0 +1,23 @@
+.europe-trip-body {
+    @apply flex items-center justify-center h-[100%] w-[100%];
+}
+
+.slideshow-arrows-container {
+    @apply flex items-center justify-center w-[50px] md:w-[60px] lg:w-[70px] h-[100vh];
+}
+
+.slideshow-arrows {
+    @apply flex justify-center items-center w-[100%];
+}
+
+.chevron-arrow {
+    @apply w-[100%] h-[100%] hover:cursor-pointer ease-in-out duration-[300ms];
+}
+
+.europe-trip-main-section {
+    /* --p: 1rem; */
+    --p: 70px;
+    --pb: 1rem;
+    --pt: 6.5rem;
+    @apply w-[100%] h-[100%] p-[var(--pt)_var(--p)_var(--pb)_var(--p)];
+}

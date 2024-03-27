@@ -1,0 +1,55 @@
+.template-one-root {
+    @apply w-[100%] h-[100%] flex items-center justify-center gap-[4rem] flex-col lg:flex-row;
+}
+
+.main-info-section {
+    @apply h-[100%] grid grid-cols-[auto_auto] grid-rows-[auto_1fr] ;
+}
+/* .main-info-section {
+    @apply h-[100%] flex justify-center items-start;
+} */
+
+.info-icon-section {
+    @apply flex items-start justify-center min-w-[30px] sm:min-w-[40px] md:min-w-[50px] lg:min-w-[60px];
+}
+
+.information-section {
+    /* @apply col-[2] row-[2]; */
+    @apply flex items-start justify-center flex-col;
+}
+
+/* .title-dates-section {
+    @apply col-[1_/_span_2] row-[1];
+} */
+.title-description-section {
+    @apply flex items-start justify-start flex-col gap-2;
+}
+
+.flags-section {
+    @apply flex justify-center items-center w-[100%];
+}
+
+/* Preview Photos section */
+.photos-preview-section {
+    @apply flex items-center justify-center flex-col gap-10 w-[100%] h-[100%]; 
+}
+
+.preview-photos-container {
+    @apply relative overflow-hidden h-[100%] w-[100%];
+}
+
+.preview-photos-container:hover .preview-photo-div:not(:hover) {
+    @apply scale-[.9] ;
+}
+
+.preview-photo-div {
+    @apply absolute border-solid border-primary border-[1px] rounded-[20px] overflow-hidden hover:z-[999] duration-[400ms] transition-all ease-in-out hover:scale-[1.2] ;
+}
+
+.preview-image {
+    @apply object-cover hover:z-[999] cursor-pointer max-w-[100%] block;
+}
+
+.more-photos-btn-container {
+    @apply flex justify-center items-center;
+}
